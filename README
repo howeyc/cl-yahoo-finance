@@ -20,6 +20,5 @@ Attributions:
 
 Historical data retrieval observed at https://github.com/herval/yahoo-finance
 
-
 This Fork:
-Adds historical split information
+Changes arguments to read-historical-data from unexported symbol to keywords
